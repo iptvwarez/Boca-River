@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-15T17:59:08+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
+
+&lt;div id=&quot;layout_wrapper_outer&quot;&gt;
+&lt;div id=&quot;layout_wrapper&quot;&gt;
+
+	&lt;div id=&quot;layout_top&quot;&gt;
+
+		&lt;div id=&quot;site_title&quot;&gt;
+
+			&lt;table width=&quot;100%&quot;&gt;
+				&lt;tr&gt;
+					&lt;!--&lt;td width=&quot;40%&quot;&gt;
+						&lt;a href=&quot;http://localhost:4000/svenska/&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/se.png&quot; alt=&quot;svenska&quot;/&gt;&lt;/a&gt;
+						&lt;a href=&quot;http://localhost:4000/&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/es.png&quot; alt=&quot;español&quot;/&gt;&lt;/a&gt;
+					&lt;/td&gt;--&gt;
+
+					&lt;!--&lt;td width=&quot;40%&quot;&gt;&lt;/td&gt;--&gt;
+					&lt;td style=&quot;margin-bottom:0;&quot; align=&quot;right&quot;&gt;
+			&lt;div style=&quot;width:350px;height:73px;&quot;&gt;&lt;div class=&quot;title&quot;&gt;
+				&lt;img src=&quot;/images/socialbtn.gif&quot; /&gt;
+			&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;
+				&lt;div id=&quot;menu&quot;&gt;
+			&lt;ul id=&quot;social_btn&quot; style=&quot;padding-top:44px;&quot;&gt;
+				&lt;li&gt;
+					&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+					&lt;script&gt;(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&quot;;
+						fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+					&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Boca-River-1804619816473970/&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;100&quot; data-show-faces=&quot;false&quot;&gt;&lt;/div&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;http://twitter.com/share&quot; data-url=&quot;/&quot; data-counturl=&quot;/&quot; data-text=&quot;Boca-River | Dos grandes del fútbol mundial a los que los queremos ver más arriba aún por eso ésta pequeña ayuda. https://idiaminx.github.io/Boca-River&quot; class=&quot;twitter-share-button&quot; data-count=&quot;none&quot; data-via=&quot;&quot;&gt;&lt;/a&gt;
+					&lt;script type=&quot;text/javascript&quot; src=&quot;http://platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;!-- Place this tag where you want the +1 button to render --&gt;
+					&lt;g:plusone size=&quot;medium&quot; annotation=&quot;none&quot; href=&quot;/&quot;&gt;&lt;/g:plusone&gt;
+
+					&lt;!-- Place this render call where appropriate --&gt;
+					&lt;script type=&quot;text/javascript&quot;&gt;
+						(function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						})();
+					&lt;/script&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;!-- Place this tag where you want the su badge to render --&gt;
+					&lt;su:badge layout=&quot;4&quot;&gt;&lt;/su:badge&gt;
+
+					&lt;!-- Place this snippet wherever appropriate --&gt;
+					 &lt;script type=&quot;text/javascript&quot;&gt;
+					 (function() {
+						 var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+							li.src = 'https://platform.stumbleupon.com/1/widgets.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+					 })();
+					 &lt;/script&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+			&lt;!--&lt;/div&gt; --&gt;
+			&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+					&lt;!--&lt;/td&gt;--&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;!# &lt;/span&gt;/usr/bin/env bash
+el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ésto està inicializado por saceño&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;un sueñoo&quot;&lt;/span&gt; &amp;gt; el_saceõ&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;html&gt;
+				&lt;div id=&quot;negocio: LaOdisea;&quot;&gt;
+				&lt;div id=&quot;two-column&quot;&gt;
+				&lt;div id=&quot;tbox1&quot;&gt;
+
+				&lt;div id=&quot;layout_wrapper_outer&quot;&gt;
+				&lt;div id=&quot;layout_wrapper&quot;&gt;
+
+					&lt;div id=&quot;layout_top&quot;&gt;
+
+						&lt;div id=&quot;site_title&quot;&gt;
+
+							&lt;table width=&quot;100%&quot;&gt;
+								&lt;tr&gt;&lt;div id=&quot;menu&quot;&gt;&lt;ul&gt;&lt;li&gt;
+					&lt;div class=&quot;title&quot;&gt;
+						&lt;h2&gt;La Odisea&lt;/h2&gt;
+					&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/odisea.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;align:left;&quot;&gt;Es el negocio de cazar al asador. Puesto que sabido es que la enenmagma se puede resonar con esta desviación mental, y aparte es un mal hábito de donde se deduce que debemos ayudarnos y evitar &quot;el fenómeno mente de asador&quot;&lt;/p&gt;
+
+					&lt;ul class=&quot;style2&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador-cazado.md&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador.md&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-file-alt button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;
+				&lt;div id=&quot;tbox2&quot;&gt;
+				&lt;div id=&quot;layout_wrapper_outer&quot;&gt;
+				&lt;div id=&quot;layout_wrapper&quot;&gt;
+
+					&lt;div id=&quot;layout_top&quot;&gt;
+
+						&lt;div id=&quot;site_title&quot;&gt;
+
+							&lt;table width=&quot;100%&quot;&gt;
+								&lt;tr&gt;&lt;div id=&quot;menu&quot;&gt;&lt;ul&gt;&lt;li&gt;
+					&lt;div class=&quot;title&quot;&gt;
+						&lt;h2&gt;Boca-River&lt;/h2&gt;
+					&lt;/div&gt;
+					&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/labanda.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+					&lt;p&gt;No es para faltarles el respeto a estos dos grandes del fútbol sudamericano. Sino para ayudarlos a encontrar la evolución más rápido, pero yo creo que sería una inyección de futuro si ambos cambiaran sus escudos por el molino, la banda y por el sacecito, el xeneise.&lt;/p&gt;
+					&lt;ul class=&quot;style2&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;/labanda.md&quot;&gt;&lt;img src=&quot;/images/labanda.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/elxeneise.md&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/html&gt;</content><category term="bash" /><summary type="html"></summary></entry><entry><title type="html">Este script</title><link href="http://localhost:4000/bash/2016/12/12/boca-river.html" rel="alternate" type="text/html" title="Este script" /><published>2016-12-12T01:00:00+01:00</published><updated>2016-12-12T01:00:00+01:00</updated><id>http://localhost:4000/bash/2016/12/12/boca-river</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/12/boca-river.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
+
+&lt;div id=&quot;layout_wrapper_outer&quot;&gt;
+&lt;div id=&quot;layout_wrapper&quot;&gt;
+
+	&lt;div id=&quot;layout_top&quot;&gt;
+
+		&lt;div id=&quot;site_title&quot;&gt;
+
+			&lt;table width=&quot;100%&quot;&gt;
+				&lt;tr&gt;
+					&lt;!--&lt;td width=&quot;40%&quot;&gt;
+						&lt;a href=&quot;http://localhost:4000/svenska/&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/se.png&quot; alt=&quot;svenska&quot;/&gt;&lt;/a&gt;
+						&lt;a href=&quot;http://localhost:4000/&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/es.png&quot; alt=&quot;español&quot;/&gt;&lt;/a&gt;
+					&lt;/td&gt;--&gt;
+
+					&lt;!--&lt;td width=&quot;40%&quot;&gt;&lt;/td&gt;--&gt;
+					&lt;td style=&quot;margin-bottom:0;&quot; align=&quot;right&quot;&gt;
+			&lt;div style=&quot;width:350px;height:73px;&quot;&gt;&lt;div class=&quot;title&quot;&gt;
+				&lt;img src=&quot;/images/socialbtn.gif&quot; /&gt;
+			&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;
+				&lt;div id=&quot;menu&quot;&gt;
+			&lt;ul id=&quot;social_btn&quot; style=&quot;padding-top:44px;&quot;&gt;
+				&lt;li&gt;
+					&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+					&lt;script&gt;(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&quot;;
+						fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+					&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Boca-River-1804619816473970/&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;100&quot; data-show-faces=&quot;false&quot;&gt;&lt;/div&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;a href=&quot;http://twitter.com/share&quot; data-url=&quot;/&quot; data-counturl=&quot;/&quot; data-text=&quot;Boca-River | Dos grandes del fútbol mundial a los que los queremos ver más arriba aún por eso ésta pequeña ayuda. https://idiaminx.github.io/Boca-River&quot; class=&quot;twitter-share-button&quot; data-count=&quot;none&quot; data-via=&quot;&quot;&gt;&lt;/a&gt;
+					&lt;script type=&quot;text/javascript&quot; src=&quot;http://platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;!-- Place this tag where you want the +1 button to render --&gt;
+					&lt;g:plusone size=&quot;medium&quot; annotation=&quot;none&quot; href=&quot;/&quot;&gt;&lt;/g:plusone&gt;
+
+					&lt;!-- Place this render call where appropriate --&gt;
+					&lt;script type=&quot;text/javascript&quot;&gt;
+						(function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						})();
+					&lt;/script&gt;
+				&lt;/li&gt;
+				&lt;li&gt;
+					&lt;!-- Place this tag where you want the su badge to render --&gt;
+					&lt;su:badge layout=&quot;4&quot;&gt;&lt;/su:badge&gt;
+
+					&lt;!-- Place this snippet wherever appropriate --&gt;
+					 &lt;script type=&quot;text/javascript&quot;&gt;
+					 (function() {
+						 var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+							li.src = 'https://platform.stumbleupon.com/1/widgets.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+					 })();
+					 &lt;/script&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+			&lt;!--&lt;/div&gt; --&gt;
+			&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+					&lt;!--&lt;/td&gt;--&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;!# &lt;/span&gt;/usr/bin/env bash
+el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ésto està inicializado por saceño&quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;un sueñoo&quot;&lt;/span&gt; &amp;gt; el_saceõ&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;html&gt;
+				&lt;div id=&quot;negocio: LaOdisea;&quot;&gt;
+				&lt;div id=&quot;two-column&quot;&gt;
+				&lt;div id=&quot;tbox1&quot;&gt;
+
+				&lt;div id=&quot;layout_wrapper_outer&quot;&gt;
+				&lt;div id=&quot;layout_wrapper&quot;&gt;
+
+					&lt;div id=&quot;layout_top&quot;&gt;
+
+						&lt;div id=&quot;site_title&quot;&gt;
+
+							&lt;table width=&quot;100%&quot;&gt;
+								&lt;tr&gt;&lt;div id=&quot;menu&quot;&gt;&lt;ul&gt;&lt;li&gt;
+					&lt;div class=&quot;title&quot;&gt;
+						&lt;h2&gt;La Odisea&lt;/h2&gt;
+					&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/odisea.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;align:left;&quot;&gt;Es el negocio de cazar al asador. Puesto que sabido es que la enenmagma se puede resonar con esta desviación mental, y aparte es un mal hábito de donde se deduce que debemos ayudarnos y evitar &quot;el fenómeno mente de asador&quot;&lt;/p&gt;
+
+					&lt;ul class=&quot;style2&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador-cazado.md&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador.md&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-file-alt button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;
+				&lt;div id=&quot;tbox2&quot;&gt;
+				&lt;div id=&quot;layout_wrapper_outer&quot;&gt;
+				&lt;div id=&quot;layout_wrapper&quot;&gt;
+
+					&lt;div id=&quot;layout_top&quot;&gt;
+
+						&lt;div id=&quot;site_title&quot;&gt;
+
+							&lt;table width=&quot;100%&quot;&gt;
+								&lt;tr&gt;&lt;div id=&quot;menu&quot;&gt;&lt;ul&gt;&lt;li&gt;
+					&lt;div class=&quot;title&quot;&gt;
+						&lt;h2&gt;Boca-River&lt;/h2&gt;
+					&lt;/div&gt;
+					&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/labanda.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+					&lt;p&gt;No es para faltarles el respeto a estos dos grandes del fútbol sudamericano. Sino para ayudarlos a encontrar la evolución más rápido, pero yo creo que sería una inyección de futuro si ambos cambiaran sus escudos por el molino, la banda y por el sacecito, el xeneise.&lt;/p&gt;
+					&lt;ul class=&quot;style2&quot;&gt;
+						&lt;li&gt;&lt;a href=&quot;/labanda.md&quot;&gt;&lt;img src=&quot;/images/labanda.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/elxeneise.md&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/html&gt;</content><category term="bash" /><summary type="html"></summary></entry></feed>
