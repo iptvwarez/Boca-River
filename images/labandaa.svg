@@ -15,7 +15,7 @@
    id="svg13642"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="labanda.svg">
+   sodipodi:docname="labandaa.svg">
   <defs
      id="defs13644">
     <inkscape:path-effect
@@ -144,14 +144,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#d6ced8"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1890.703"
-     inkscape:cy="745.28982"
+     inkscape:cx="1896.4173"
+     inkscape:cy="739.57553"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -172,7 +172,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
