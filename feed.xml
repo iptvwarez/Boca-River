@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-16T11:41:18+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-16T11:55:34+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
 
 &lt;div id=&quot;layout_wrapper_outer&quot;&gt;
 &lt;div id=&quot;layout_wrapper&quot;&gt;
@@ -94,8 +94,8 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/odisea.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;align:left;&quot;&gt;Es el negocio de cazar al asador. Puesto que sabido es que la enenmagma se puede resonar con esta desviación mental, y aparte es un mal hábito de donde se deduce que debemos ayudarnos y evitar &quot;el fenómeno mente de asador&quot;&lt;/p&gt;
 
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/asador-cazado.md&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href=&quot;/asador.md&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador-cazado&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
 					&lt;/ul&gt;
 					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-file-alt button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;
 				&lt;div id=&quot;tbox2&quot;&gt;
@@ -114,8 +114,8 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 					&lt;p&gt;No es para faltarles el respeto a estos dos grandes del fútbol sudamericano. Sino para ayudarlos a encontrar la evolución más rápido, pero yo creo que sería una inyección de futuro si ambos cambiaran sus escudos por el molino, la banda y por el sacecito, el xeneise.&lt;/p&gt;
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/labanda/&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href=&quot;/elxeneise.md&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/labanda&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/elxeneise&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
 					&lt;/ul&gt;
 					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/html&gt;</content><category term="bash" /><summary type="html"></summary></entry><entry><title type="html">Este script</title><link href="http://localhost:4000/bash/2016/12/12/boca-river.html" rel="alternate" type="text/html" title="Este script" /><published>2016-12-12T01:00:00+01:00</published><updated>2016-12-12T01:00:00+01:00</updated><id>http://localhost:4000/bash/2016/12/12/boca-river</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/12/boca-river.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
@@ -214,8 +214,8 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/odisea.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;align:left;&quot;&gt;Es el negocio de cazar al asador. Puesto que sabido es que la enenmagma se puede resonar con esta desviación mental, y aparte es un mal hábito de donde se deduce que debemos ayudarnos y evitar &quot;el fenómeno mente de asador&quot;&lt;/p&gt;
 
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/asador-cazado.md&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href=&quot;/asador.md&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador-cazado&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
 					&lt;/ul&gt;
 					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-file-alt button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;
 				&lt;div id=&quot;tbox2&quot;&gt;
@@ -234,8 +234,8 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 					&lt;p&gt;No es para faltarles el respeto a estos dos grandes del fútbol sudamericano. Sino para ayudarlos a encontrar la evolución más rápido, pero yo creo que sería una inyección de futuro si ambos cambiaran sus escudos por el molino, la banda y por el sacecito, el xeneise.&lt;/p&gt;
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/labanda/&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
-						&lt;li&gt;&lt;a href=&quot;/elxeneise.md&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/labanda&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/elxeneise&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
 					&lt;/ul&gt;
 					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/html&gt;</content><category term="bash" /><summary type="html"></summary></entry></feed>
