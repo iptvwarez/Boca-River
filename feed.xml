@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-19T14:08:50+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-20T16:27:44+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
 
 &lt;div id=&quot;layout_wrapper_outer&quot;&gt;
 &lt;div id=&quot;layout_wrapper&quot;&gt;
@@ -21,8 +21,8 @@
 			&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;
 				&lt;div id=&quot;menu&quot;&gt;
 			&lt;ul id=&quot;social_btn&quot; style=&quot;padding-top:44px;&quot;&gt;
-				&lt;li&gt;
-					&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+				&lt;!--&lt;li&gt;
+					&lt;div id=&quot;fb-root&quot; &gt;&lt;/div&gt;
 					&lt;script&gt;(function(d, s, id) {
 						var js, fjs = d.getElementsByTagName(s)[0];
 						if (d.getElementById(id)) return;
@@ -31,9 +31,13 @@
 						fjs.parentNode.insertBefore(js, fjs);
 					}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
 					&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Boca-River-1804619816473970/&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;100&quot; data-show-faces=&quot;false&quot;&gt;&lt;/div&gt;
+				&lt;/li&gt;--&gt;
+				&lt;li&gt;
+					&lt;div class=&quot;fb-like&quot; data-share=&quot;true&quot; data-width=&quot;450&quot; data-show-faces=&quot;true&quot;&gt;
+					&lt;/div&gt;
 				&lt;/li&gt;
 				&lt;li&gt;
-					&lt;a href=&quot;http://twitter.com/share&quot; data-url=&quot;/&quot; data-counturl=&quot;/&quot; data-text=&quot;Boca-River | Dos grandes del fútbol mundial a los que los queremos ver más arriba aún por eso ésta pequeña ayuda. https://iptvwarez.github.io/Boca-River&quot; class=&quot;twitter-share-button&quot; data-count=&quot;none&quot; data-via=&quot;&quot;&gt;&lt;/a&gt;
+					&lt;a href=&quot;http://twitter.com/share&quot; data-url=&quot;http://boca-river.cf/bash/2016/12/14/welcome-to-jekyll.html&quot; data-counturl=&quot;http://boca-river.cf/bash/2016/12/14/welcome-to-jekyll.html&quot; data-text=&quot;Boca-River | Dos grandes del fútbol mundial a los que los queremos ver más arriba aún por eso ésta pequeña ayuda. http://boca-river.cf/bash/2016/12/14/welcome-to-jekyll.html&quot; class=&quot;twitter-share-button&quot; data-count=&quot;true&quot; data-via=&quot;&quot;&gt;&lt;/a&gt;
 					&lt;script type=&quot;text/javascript&quot; src=&quot;http://platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt;
 				&lt;/li&gt;
 				&lt;li&gt;
@@ -141,8 +145,8 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 			&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;
 				&lt;div id=&quot;menu&quot;&gt;
 			&lt;ul id=&quot;social_btn&quot; style=&quot;padding-top:44px;&quot;&gt;
-				&lt;li&gt;
-					&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+				&lt;!--&lt;li&gt;
+					&lt;div id=&quot;fb-root&quot; &gt;&lt;/div&gt;
 					&lt;script&gt;(function(d, s, id) {
 						var js, fjs = d.getElementsByTagName(s)[0];
 						if (d.getElementById(id)) return;
@@ -151,9 +155,13 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 						fjs.parentNode.insertBefore(js, fjs);
 					}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
 					&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Boca-River-1804619816473970/&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;100&quot; data-show-faces=&quot;false&quot;&gt;&lt;/div&gt;
+				&lt;/li&gt;--&gt;
+				&lt;li&gt;
+					&lt;div class=&quot;fb-like&quot; data-share=&quot;true&quot; data-width=&quot;450&quot; data-show-faces=&quot;true&quot;&gt;
+					&lt;/div&gt;
 				&lt;/li&gt;
 				&lt;li&gt;
-					&lt;a href=&quot;http://twitter.com/share&quot; data-url=&quot;/&quot; data-counturl=&quot;/&quot; data-text=&quot;Boca-River | Dos grandes del fútbol mundial a los que los queremos ver más arriba aún por eso ésta pequeña ayuda. https://iptvwarez.github.io/Boca-River&quot; class=&quot;twitter-share-button&quot; data-count=&quot;none&quot; data-via=&quot;&quot;&gt;&lt;/a&gt;
+					&lt;a href=&quot;http://twitter.com/share&quot; data-url=&quot;http://boca-river.cf/bash/2016/12/12/boca-river.html&quot; data-counturl=&quot;http://boca-river.cf/bash/2016/12/12/boca-river.html&quot; data-text=&quot;Boca-River | Dos grandes del fútbol mundial a los que los queremos ver más arriba aún por eso ésta pequeña ayuda. http://boca-river.cf/bash/2016/12/12/boca-river.html&quot; class=&quot;twitter-share-button&quot; data-count=&quot;true&quot; data-via=&quot;&quot;&gt;&lt;/a&gt;
 					&lt;script type=&quot;text/javascript&quot; src=&quot;http://platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt;
 				&lt;/li&gt;
 				&lt;li&gt;
