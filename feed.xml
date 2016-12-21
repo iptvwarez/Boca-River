@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-20T16:27:44+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-21T08:43:13+01:00</updated><id>http://localhost:4000//</id><title type="html">Boca-River</title><subtitle>Página dedicada a River y a Boca y al camino evolución de ambos en el tiempo...</subtitle><entry><title type="html">Boca River</title><link href="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Boca River" /><published>2016-12-14T01:46:03+01:00</published><updated>2016-12-14T01:46:03+01:00</updated><id>http://localhost:4000/bash/2016/12/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/14/welcome-to-jekyll.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
 
 &lt;div id=&quot;layout_wrapper_outer&quot;&gt;
 &lt;div id=&quot;layout_wrapper&quot;&gt;
@@ -33,7 +33,7 @@
 					&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Boca-River-1804619816473970/&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;100&quot; data-show-faces=&quot;false&quot;&gt;&lt;/div&gt;
 				&lt;/li&gt;--&gt;
 				&lt;li&gt;
-					&lt;div class=&quot;fb-like&quot; data-share=&quot;true&quot; data-width=&quot;450&quot; data-show-faces=&quot;true&quot;&gt;
+					&lt;div class=&quot;fb-like&quot; data-share=&quot;true&quot; data-width=&quot;10&quot; data-show-faces=&quot;true&quot; data-layout=&quot;button_count&quot;&gt;
 					&lt;/div&gt;
 				&lt;/li&gt;
 				&lt;li&gt;
@@ -42,7 +42,7 @@
 				&lt;/li&gt;
 				&lt;li&gt;
 					&lt;!-- Place this tag where you want the +1 button to render --&gt;
-					&lt;g:plusone size=&quot;medium&quot; annotation=&quot;none&quot; href=&quot;/&quot;&gt;&lt;/g:plusone&gt;
+					&lt;g:plusone size=&quot;medium&quot; annotation=&quot;none&quot; href=&quot;http://boca-river.cf/bash/2016/12/14/welcome-to-jekyll.html&quot;&gt;&lt;/g:plusone&gt;
 
 					&lt;!-- Place this render call where appropriate --&gt;
 					&lt;script type=&quot;text/javascript&quot;&gt;
@@ -74,11 +74,11 @@
 				&lt;/tr&gt;
 			&lt;/table&gt;
 		&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
+&lt;!--
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;!# &lt;/span&gt;/usr/bin/env bash
 el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ésto està inicializado por saceño&quot;&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;un sueñoo&quot;&lt;/span&gt; &amp;gt; el_saceõ&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
+--&gt;
 &lt;html&gt;
 				&lt;div id=&quot;negocio: LaOdisea;&quot;&gt;
 				&lt;div id=&quot;two-column&quot;&gt;
@@ -98,7 +98,7 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/odisea.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;align:left;&quot;&gt;Es el negocio de cazar al asador. Puesto que sabido es que la enenmagma se puede resonar con esta desviación mental, y aparte es un mal hábito de donde se deduce que debemos ayudarnos y evitar &quot;el fenómeno mente de asador&quot;&lt;/p&gt;
 
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/asador-cazado&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador-cazado&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
 						&lt;li&gt;&lt;a href=&quot;/asador&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
 					&lt;/ul&gt;
 					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-file-alt button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;
@@ -114,14 +114,23 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 								&lt;tr&gt;&lt;div id=&quot;menu&quot;&gt;&lt;ul&gt;&lt;li&gt;
 					&lt;div class=&quot;title&quot;&gt;
 						&lt;h2&gt;Boca-River&lt;/h2&gt;
-					&lt;/div&gt;
+					&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;
 					&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 					&lt;p&gt;No es para faltarles el respeto a estos dos grandes del fútbol sudamericano. Sino para ayudarlos a encontrar la evolución más rápido, pero yo creo que sería una inyección de futuro si ambos cambiaran sus escudos por el molino, la banda y por el sacecito, el xeneise.&lt;/p&gt;
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/labanda&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/labanda&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
 						&lt;li&gt;&lt;a href=&quot;/elxeneise&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
-					&lt;/ul&gt;
-					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+					&lt;/ul&gt;&lt;br /&gt;&lt;/div&gt;
+					&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&amp;lt;/div&amp;gt;
+					&lt;center&gt;&lt;!--&lt;div id=&quot;column1&quot;&gt;--&gt;
+					&lt;div id=&quot;comments_plugin&quot; style=&quot;background-color:#2E3436;align:left;&quot;&gt;&lt;span style=&quot;background-color:#2E3436&quot;&gt;
+						
+						&lt;!--&lt;center&gt;&lt;hr/&gt;&lt;/center&gt;--&gt;
+						&lt;h4&gt;Comments&lt;/h4&gt;
+						&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://boca-river.cf/bash/2016/12/14/welcome-to-jekyll.html&quot; data-colorscheme=&quot;dark&quot; data-layout=&quot;button_count&quot; data-num-posts=&quot;4&quot; data-width=&quot;706&quot;&gt;&lt;/div&gt;
+						&lt;/span&gt;
+					&lt;/div&gt;&lt;!--&lt;/div&gt;--&gt;&lt;/center&gt;
 &lt;/html&gt;</content><category term="bash" /><summary type="html"></summary></entry><entry><title type="html">Este script</title><link href="http://localhost:4000/bash/2016/12/12/boca-river.html" rel="alternate" type="text/html" title="Este script" /><published>2016-12-12T01:00:00+01:00</published><updated>2016-12-12T01:00:00+01:00</updated><id>http://localhost:4000/bash/2016/12/12/boca-river</id><content type="html" xml:base="http://localhost:4000/bash/2016/12/12/boca-river.html">&lt;div id=&quot;github-project: LaBase;&quot;&gt;
 
 &lt;div id=&quot;layout_wrapper_outer&quot;&gt;
@@ -157,7 +166,8 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;div class=&quot;fb-like&quot; data-href=&quot;https://www.facebook.com/Boca-River-1804619816473970/&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;100&quot; data-show-faces=&quot;false&quot;&gt;&lt;/div&gt;
 				&lt;/li&gt;--&gt;
 				&lt;li&gt;
-					&lt;div class=&quot;fb-like&quot; data-share=&quot;true&quot; data-width=&quot;450&quot; data-show-faces=&quot;true&quot;&gt;
+
+					&lt;div class=&quot;fb-like&quot; data-share=&quot;true&quot; data-width=&quot;10&quot; data-show-faces=&quot;true&quot; data-layout=&quot;button_count&quot;&gt;
 					&lt;/div&gt;
 				&lt;/li&gt;
 				&lt;li&gt;
@@ -198,11 +208,11 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 				&lt;/tr&gt;
 			&lt;/table&gt;
 		&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
+&lt;!--
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;!# &lt;/span&gt;/usr/bin/env bash
 el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ésto està inicializado por saceño&quot;&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;un sueñoo&quot;&lt;/span&gt; &amp;gt; el_saceõ&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
+--&gt;
 &lt;html&gt;
 				&lt;div id=&quot;negocio: LaOdisea;&quot;&gt;
 				&lt;div id=&quot;two-column&quot;&gt;
@@ -222,7 +232,7 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 					&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/odisea.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot;align:left;&quot;&gt;Es el negocio de cazar al asador. Puesto que sabido es que la enenmagma se puede resonar con esta desviación mental, y aparte es un mal hábito de donde se deduce que debemos ayudarnos y evitar &quot;el fenómeno mente de asador&quot;&lt;/p&gt;
 
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/asador-cazado&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/asador-cazado&quot;&gt;&lt;img src=&quot;/images/asador-cazado.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador cazado&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
 						&lt;li&gt;&lt;a href=&quot;/asador&quot;&gt;&lt;img src=&quot;/images/asador.svg&quot; style=&quot;width:30px;&quot; /&gt;un asador&lt;/a&gt;&lt;/li&gt;
 					&lt;/ul&gt;
 					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-file-alt button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;
@@ -235,15 +245,67 @@ el_saceño&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&
 						&lt;div id=&quot;site_title&quot;&gt;
 
 							&lt;table width=&quot;100%&quot;&gt;
-								&lt;tr&gt;&lt;div id=&quot;menu&quot;&gt;&lt;ul&gt;&lt;li&gt;
-					&lt;div class=&quot;title&quot;&gt;
-						&lt;h2&gt;Boca-River&lt;/h2&gt;
+								&lt;tr&gt;
+									&lt;div id=&quot;menu&quot;&gt;
+										&lt;ul&gt;
+											&lt;li&gt;
+												&lt;div class=&quot;title&quot;&gt;
+													&lt;h2&gt;Boca-River&lt;/h2&gt;
+												&lt;/div&gt;&lt;br /&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;
+											&lt;/li&gt;
+											&lt;li&gt;
+												&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;
+											&lt;/li&gt;
+										&lt;/ul&gt;
+									&lt;/div&gt;
+								&lt;/tr&gt;
+							&lt;/table&gt;
+						&lt;/div&gt;
 					&lt;/div&gt;
-					&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:60px;align:right&quot; alt=&quot;odisea&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+				&lt;/div&gt;
 					&lt;p&gt;No es para faltarles el respeto a estos dos grandes del fútbol sudamericano. Sino para ayudarlos a encontrar la evolución más rápido, pero yo creo que sería una inyección de futuro si ambos cambiaran sus escudos por el molino, la banda y por el sacecito, el xeneise.&lt;/p&gt;
 					&lt;ul class=&quot;style2&quot;&gt;
-						&lt;li&gt;&lt;a href=&quot;/labanda&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&quot;/labanda&quot;&gt;&lt;img src=&quot;/images/labandas.svg&quot; style=&quot;width:30px;&quot; /&gt;River Plate&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
 						&lt;li&gt;&lt;a href=&quot;/elxeneise&quot;&gt;&lt;img src=&quot;/images/xeneise.svg&quot; style=&quot;width:30px;&quot; /&gt;Boca Juniors&lt;/a&gt;&lt;/li&gt;
-					&lt;/ul&gt;
-					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;
+					&lt;/ul&gt;&lt;br /&gt;
+					&lt;/div&gt;&lt;/div&gt;
+					&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+					&lt;center&gt;&lt;!--&lt;div id=&quot;column1&quot;&gt;--&gt;
+					&lt;div id=&quot;comments_plugin&quot; style=&quot;background-color:#2E3436;align:left;&quot;&gt;&lt;span style=&quot;background-color:#2E3436&quot;&gt;
+						
+						&lt;!--&lt;center&gt;&lt;hr/&gt;&lt;/center&gt;--&gt;
+						&lt;h4&gt;Comments&lt;/h4&gt;
+						&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://boca-river.cf/bash/2016/12/12/boca-river.html&quot; data-colorscheme=&quot;dark&quot; data-layout=&quot;button_count&quot; data-num-posts=&quot;4&quot; data-width=&quot;706&quot;&gt;&lt;/div&gt;
+						&lt;/span&gt;
+					&lt;/div&gt;&lt;!--&lt;/div&gt;--&gt;&lt;/center&gt;
+					&lt;!--&lt;a href=&quot;#&quot; class=&quot;icon icon-ok button&quot;&gt;Read More&lt;/a&gt;--&gt; &lt;/div&gt;&lt;/div&gt;
+				&lt;!--	&lt;script&gt;
+window.fbAsyncInit = function() {
+FB.init({
+  appId      : '1728283810822588',
+  xfbml      : true,
+  version    : 'v2.8'
+});
+};
+
+(function(d, s, id){
+ var js, fjs = d.getElementsByTagName(s)[0];
+ if (d.getElementById(id)) {return;}
+ js = d.createElement(s); js.id = id;
+ js.src = &quot;//connect.facebook.net/en_US/sdk.js&quot;;
+ fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+&lt;/script&gt;
+
+					
+					&lt;hr/&gt;
+					&lt;h4&gt;Comments&lt;/h4&gt;
+					&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://boca-river.cf/bash/2016/12/12/boca-river.html&quot; data-colorscheme=&quot;dark&quot; data-num-posts=&quot;4&quot; data-width=&quot;706&quot;&gt;&lt;/div&gt;
+					 --&gt;
+
+
+
 &lt;/html&gt;</content><category term="bash" /><summary type="html"></summary></entry></feed>
